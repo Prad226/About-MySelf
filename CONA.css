@@ -1,0 +1,26 @@
+body{
+  background-color: rgb(157, 252, 165);
+}
+
+
+h1{
+  text-align:center;
+  color:rgb(176, 58, 86);
+  font-size:40px;
+  font-family: "Nunito";
+}
+p{
+  text-align:left;
+  color:rgb(255, 121, 38);
+  font-size:20px;
+  font-family:"Readex Pro";
+}
+ol{
+  text-align:justify;
+  font-size:15px;
+  color:rgb(64, 18, 230);
+  font-family:inherit;
+}
+img{
+    float:right;
+}
